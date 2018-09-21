@@ -1,1 +1,1 @@
-Git is the best software
+git is free software distributed under the GPL
